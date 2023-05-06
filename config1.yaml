@@ -27,13 +27,13 @@ dns:
     - 8.8.4.4
     - https://cloudflare-dns.com/dns-query
     - 112.215.203.246
-    - 112.215.203.248
+    - 112.215.203.249
     
   default-nameserver:
     - 8.8.8.8
     - 1.1.1.1
     - 112.215.203.246
-    - 112.215.203.248
+    - 112.215.203.249
 proxies:
   - {name: sg-3.test3.net, server: sg-3.test3.net, port: 443, type: trojan, password: a20c2320-ea15-11ed-be32-1239d0255272, skip-cert-verify: true, sni: teams.microsoft.com, udp: true}
   - {name: sg-3.test3.net 2, server: sg-3.test3.net, port: 443, type: trojan, password: d07f5290-ea15-11ed-a8a7-1239d0255272, skip-cert-verify: true, sni: teams.microsoft.com, udp: true}
