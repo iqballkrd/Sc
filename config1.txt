@@ -1,0 +1,6 @@
+payload:
+  - '+.0.nextyourcontent.com'
+  - '+.00-gov.cn'
+  - '+.0001.best'
+  - '+.0024aaaa.com'
+  - '+.003store.com'
